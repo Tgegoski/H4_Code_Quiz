@@ -1,0 +1,9 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#questionContainer{
+    border: 2px black solid;
+    width: 50%;
+}
+
